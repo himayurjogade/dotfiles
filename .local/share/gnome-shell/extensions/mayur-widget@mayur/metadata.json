@@ -1,0 +1,6 @@
+{
+  "uuid": "mayur-widget@mayur",
+  "name": "Mayur Widget",
+  "description": "Clickable workspace switcher",
+  "shell-version": ["50"]
+}
