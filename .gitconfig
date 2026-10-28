@@ -1,0 +1,7 @@
+[user]
+	name = Mayur Jogade
+	email = jogademayur@gmail.com
+[init]
+	defaultBranch = main
+[credential]
+	helper = store
